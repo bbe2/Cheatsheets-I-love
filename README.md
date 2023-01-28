@@ -7,5 +7,6 @@ https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/supe
 **Machine learning skill websites**  
 • https://explore.skillbuilder.aws/pages/16/learner-dashboard  #aws  
 
+![probability distributions](https://user-images.githubusercontent.com/59778456/215232461-aa032868-cacf-4407-a837-5cf59e4c0bf5.JPG)
 
-![ML_AI_DL](https://user-images.githubusercontent.com/59778456/203649558-12f65c4a-8242-4ec0-ab2c-b7b3fbe9b270.JPG)
+![Mona_Lisa](https://user-images.githubusercontent.com/59778456/215232215-c5c81e47-b2f0-4f56-844f-9f649bff32f6.jpg)
