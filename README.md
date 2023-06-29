@@ -1,5 +1,10 @@
 ## cheatsheets-i-love  
 
+- Dr.Feng's amazing LaTex-> [LaTeX.byDr.feng.utk.pdf](https://github.com/bbe2/cheatsheets-i-love/files/11907763/LaTeX.byDr.feng.utk.pdf)  
+
+
+
+
 **https://github.com/afshinea** great visual summary supervised, deep learning  
 https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf  => stanford cs-229(ml), cs230(dl), cs-221(ai), keras data generator  
 
